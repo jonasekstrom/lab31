@@ -1,0 +1,64 @@
+.maincontainer {
+  margin: 0 auto;
+}
+#headercontainer {
+  text-align: center;
+}
+
+.componentcontainer {
+  text-align: center;
+}
+.componentcontainerhome {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px 0px 0px 0px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  cursor: pointer;
+}
+.button3 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 0px 10px 0px 0px;
+  cursor: pointer;  
+}
+.showDiv {
+  background: #03A9F4;
+  color: white;
+  padding: 10px 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bold {
+  font-size: 20px;
+  font-weight: bolder;
+}
