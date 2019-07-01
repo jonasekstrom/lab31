@@ -8,3 +8,4 @@ Komponenten ska ha ett textfält där man kan skriva in text, men varje gång ma
 Komponenten ska ha ett textfält.
 Komponenten ska generera ett slumpvis tal mellan 1 och 100. Sedan ska användaren kunna skriva in en gissning. Om gissningen är rätt ska komponenten skriva ut hur många gissningar som behövdes. Annars ska komponenten skriva ut om det gissade talet är för litet eller för stort.
      
+sidan finns i sin helhet på https://young-hamlet-71392.herokuapp.com/
